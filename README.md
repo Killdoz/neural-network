@@ -1,2 +1,1 @@
-# neural-network
-It's my neural network)
+install NUMPY( pip install numpy )
